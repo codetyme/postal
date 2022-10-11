@@ -16,7 +16,8 @@ The term Postal Index Number (PIN) is popularly known as PIN code/Postal Code in
 <br />
 
 # Thanks
-www.postalpincode.in
+<a href="http://www.postalpincode.in/" target="_blank" rel="noreferrer">www.postalpincode.in</a>
+
 <br />
 
 # License
