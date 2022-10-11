@@ -1,7 +1,17 @@
 {
     "name": "codetyme/postal",
     "description": "Laravel indian postal code package.",
-    "license": "MIT",
+    "license": [
+        "MIT"
+    ],
+    "keywords": [
+        "codetyme",
+        "postal",
+        "postal code",
+        "pincode",
+        "indian pincode",
+        "zipcode"
+    ],
     "autoload": {
         "psr-4": {
             "Codetyme\\Postal\\": "src/"
