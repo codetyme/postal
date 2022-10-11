@@ -1,0 +1,18 @@
+{
+    "name": "codetyme/postal",
+    "description": "Laravel indian postal code package.",
+    "autoload": {
+        "psr-4": {
+            "Codetyme\\Postal\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rohit Suthar",
+            "email": "rohisuthar@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0.1"
+    }
+}
