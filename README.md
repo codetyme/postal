@@ -15,6 +15,26 @@ The term Postal Index Number (PIN) is popularly known as PIN code/Postal Code in
 
 <br />
 
+# How to use
+
+In your controller
+
+<pre>
+public static function FindByPincode(\Codetyme\Postal\Postal $postal){
+    return $postal->pin('400001');
+}
+</pre>
+
+<pre>
+public static function FindByPostOffice(\Codetyme\Postal\Postal $postal){
+    return $postal->branch('Mumbai');
+}
+</pre>
+
+API returns the response in JSON format. <code>Status</code> field in response is set to <code>SUCCESS</code> or <code>ERROR</code>, <code>Message</code> field will return message against the request and <code>PostOffice</code> field will return data.
+
+<br />
+
 # Thanks
 <a href="http://www.postalpincode.in/" target="_blank" rel="noreferrer">www.postalpincode.in</a>
 
