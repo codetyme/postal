@@ -15,5 +15,9 @@ The term Postal Index Number (PIN) is popularly known as PIN code/Postal Code in
 
 <br />
 
+# Thanks
+www.postalpincode.in
+<br />
+
 # License
 The MIT License (MIT). Please see <a href="https://github.com/codetyme/postal/blob/master/LICENSE.md" rel="noreferrer">License File</a> for more information.
