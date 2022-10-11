@@ -1,9 +1,7 @@
 {
     "name": "codetyme/postal",
     "description": "Laravel indian postal code package.",
-    "license": [
-        "MIT"
-    ],
+    "license": "MIT",
     "keywords": [
         "codetyme",
         "indian",
